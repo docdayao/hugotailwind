@@ -1,0 +1,19 @@
+{
+  "name": "hugotailwind",
+  "version": "1.0.0",
+  "description": "This is a Hugo Tailwind example project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Doc Dayao",
+  "license": "CC Attribution-ShareAlike 4.0 International",
+  "devDependencies": {
+    "autoprefixer": "^10.3.3",
+    "postcss": "^8.3.6",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.9"
+  }
+}
